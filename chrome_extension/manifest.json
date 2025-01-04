@@ -15,6 +15,7 @@
             "js": [
                 "lib/pixels-web-connect_1.3.1.js",
                 "lib/pixels-edit-animation_1.3.0.js",
+                "lib/godice.min.js",
                 "content.js"
             ],
             "run_at": "document_start",
